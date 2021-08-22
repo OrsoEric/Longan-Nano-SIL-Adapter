@@ -1,0 +1,14 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"2";"";"CON-8X";"TH-8X2.54";"CON-UC-2, CON-UC-3";"PIN HEADER";"";"";"";"";
+"2";"10";"R-M2012";"SMD-M2012";"RS-COM-2, RS-COM-3";"Resistor";"";"";"";"";
+"2";"100n";"C-M2012";"SMD-M2012";"CF-COM-1, CF-COM-2";"Capacitor";"";"";"";"";
+"1";"100u";"C+-TH2.54-6.0";"TH-BARREL-2M54-6M0";"CP-UC-1";"Polarized Capacitor";"";"";"";"";
+"1";"120";"R-V2.54-3.0";"TH-LINE-2M54-3M0";"RT-COM-1";"Resistor";"";"";"";"";
+"1";"1u";"C-M2012";"SMD-M2012";"CB-COM-1";"Capacitor";"";"";"";"";
+"1";"4X1K";"RX4-M2012-X4";"SMD-M2012-X4";"RS-UC-1";"Four Resistor";"";"";"";"";
+"2";"720";"R-M2012";"SMD-M2012";"RD-COM-1, RU-COM-1";"Resistor";"";"";"";"";
+"1";"BEAD 500mA";"L-M2012";"SMD-M2012";"LF1-COM-1";"Inductor";"";"";"";"";
+"1";"CON-2X";"CON-2X";"TH-2X2.54";"CON-UC-1";"Generic connector two pins";"";"";"";"";
+"2";"JACK_SMD_3MM5";"JACK_SMD_3MM5";"JACK_SMD_3MM5";"CON-COM-1, CON-COM-2";"Jack 3.5mm";"";"";"";"";
+"1";"LONGAN-NANO";"LONGAN-NANO";"LONGAN-NANO";"IC-UC-1";"Longan Nano";"";"";"";"";
+"1";"SN75176";"RS485";"DIL08";"IC-COM-1";"RS485 TRANSEIVER";"";"MAX481CPA+";"unknown";"99K3445";
